@@ -6,17 +6,25 @@ Version de travail — septembre 2026
 
 LaQuestion propose des ateliers de découverte pour des enfants de 5 à 8 ans.
 
-Ce ne sont ni des cours de sciences, ni des démonstrations, ni des travaux pratiques simplifiés.
+Ce ne sont ni des cours de sciences, ni des démonstrations, ni des travaux pratiques simplifiés. Les phénomènes sont réels et les ateliers sont préparés avec rigueur, mais les enfants ne suivent pas un protocole destiné à les conduire vers une réponse attendue.
 
-Chaque atelier commence par quelque chose que les enfants pensent connaître : de l’eau, une cuillère, un ballon, une pierre, un miroir, une bouteille vide…
+Chaque atelier commence par quelque chose de familier : de l’eau, une cuillère, un ballon, une pierre, un miroir, une bouteille vide…
+
+Un petit monde connu s’installe.
 
 Puis quelque chose ne se passe pas comme prévu.
 
-C’est ce petit dérèglement qui fait naître la question.
+La même matière réagit différemment selon le geste. Un objet agit sans en toucher un autre. Une chose qui devrait couler flotte. Une construction qui semble devoir tomber reste en équilibre.
 
-Le rôle de l’atelier n’est pas de faire suivre aux enfants un chemin expérimental jusqu’à une réponse déjà préparée. Il est de créer les conditions pour qu’ils aient envie d’essayer, de recommencer, de comparer, de montrer aux autres, de poser des questions et parfois de repartir avec une question encore ouverte.
+C’est ce décalage qui fait naître LaQuestion.
 
-L’adulte connaît le phénomène. Les enfants, eux, n’ont pas besoin de recevoir son explication complète.
+À partir de là, les enfants explorent. Ils touchent, essaient, recommencent, changent un geste, inventent une autre manière de faire, regardent ce qu’un autre groupe vient de découvrir et cherchent à reproduire ou à contredire le résultat.
+
+L’adulte prépare le terrain, veille à la sécurité et relance l’exploration lorsqu’elle en a besoin. Il connaît le phénomène, mais n’a pas pour mission d’en livrer immédiatement l’explication.
+
+Le but n’est pas que les enfants repartent capables de réciter une réponse scientifique.
+
+Le but est qu’ils aient réellement rencontré une question.
 
 Une bonne séance peut très bien se terminer par :
 
@@ -28,7 +36,14 @@ Une bonne séance peut très bien se terminer par :
 
 « Je voudrais essayer avec autre chose. »
 
-C’est déjà réussi.
+Et parfois simplement :
+
+« Mais pourquoi ? »
+
+C’est précisément ce que cherche LaQuestion : non pas apprendre des réponses aux enfants, mais leur donner envie d’en chercher.
+
+**Rigueur dans la préparation, liberté dans l’exploration.**
+
 
 ---
 
