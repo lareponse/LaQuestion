@@ -2,6 +2,28 @@
 
 Version de travail - septembre 2026
 
+## Sommaire
+
+- [Esprit général](#esprit-general)
+- [Cadre commun](#cadre-commun)
+- [La mécanique](#mecanique)
+- [Sommaire des ateliers](#sommaire-ateliers)
+- [1. Oobleck](#atelier-1)
+- [2. Jus de chou rouge](#atelier-2)
+- [3. Aimants](#atelier-3)
+- [4. Électricité statique](#atelier-4)
+- [5. Reflets](#atelier-5)
+- [6. Son](#atelier-6)
+- [7. Air](#atelier-7)
+- [8. Flotter](#atelier-8)
+- [9. Équilibre](#atelier-9)
+- [10. Chaleur](#atelier-10)
+- [11. La surface de l'eau](#atelier-11)
+- [Matériel général à transporter](#materiel-general)
+
+---
+
+<a id="esprit-general"></a>
 ## Esprit général
 
 LaQuestion propose des ateliers de découverte pour des enfants de 5 à 8 ans.
@@ -47,6 +69,7 @@ C'est précisément ce que cherche LaQuestion: non pas apprendre des réponses a
 
 ---
 
+<a id="cadre-commun"></a>
 ## Cadre commun
 
 * **Public:** enfants de 5 à 8 ans.
@@ -74,6 +97,7 @@ Il vaut mieux supprimer une petite expérience que couper une découverte en ple
 
 ---
 
+<a id="mecanique"></a>
 # La mécanique
 
 Chaque atelier suit approximativement le même mouvement.
@@ -144,6 +168,7 @@ L'adulte peut aider à mettre des mots sur les observations, sans transformer la
 
 ---
 
+<a id="sommaire-ateliers"></a>
 ## Sommaire des ateliers
 
 |  # | Atelier                                                                                    | TL;DR                                                                                                                     |
@@ -163,6 +188,7 @@ L'adulte peut aider à mettre des mots sur les observations, sans transformer la
 
 ---
 
+<a id="atelier-1"></a>
 # 1. Oobleck - Pourquoi cette matière ne répond-elle pas toujours pareil ?
 
 ## Ce qu'on cherche à provoquer
@@ -280,6 +306,7 @@ On peut laisser cette question ouverte.
 
 ---
 
+<a id="atelier-2"></a>
 # 2. Jus de chou rouge - Comment voir une différence qu'on ne voit pas ?
 
 ## Ce qu'on cherche à provoquer
@@ -373,6 +400,7 @@ Aucune obligation de parler de pH, d'acides ou de bases.
 
 ---
 
+<a id="atelier-3"></a>
 # 3. Aimants - Pourquoi l'aimant choisit-il certaines choses ?
 
 ## Ce qu'on cherche à provoquer
@@ -471,6 +499,7 @@ La question reste ouverte.
 
 ---
 
+<a id="atelier-4"></a>
 # 4. Électricité statique - Comment un objet ordinaire peut-il soudain se mettre à attirer des choses ?
 
 ## Ce qu'on cherche à provoquer
@@ -552,6 +581,7 @@ On ne cherche pas nécessairement à répondre ce jour-là.
 
 ---
 
+<a id="atelier-5"></a>
 # 5. Reflets - Pourquoi le miroir ne montre-t-il pas toujours la même chose ?
 
 ## Ce qu'on cherche à provoquer
@@ -638,6 +668,7 @@ Question finale:
 
 ---
 
+<a id="atelier-6"></a>
 # 6. Son - Comment quelque chose qu'on ne voit pas peut-il faire bouger autre chose ?
 
 ## Ce qu'on cherche à provoquer
@@ -731,6 +762,7 @@ On peut finir avec cette piste sans chercher une explication complète du son.
 
 ---
 
+<a id="atelier-7"></a>
 # 7. Air - Qu'y a-t-il dans une bouteille vide ?
 
 ## Ce qu'on cherche à provoquer
@@ -819,6 +851,7 @@ Il n'est pas nécessaire d'aller beaucoup plus loin.
 
 ---
 
+<a id="atelier-8"></a>
 # 8. Flotter - Comment la même chose peut-elle couler puis flotter ?
 
 ## Ce qu'on cherche à provoquer
@@ -910,6 +943,7 @@ L'expression « quantité d'eau déplacée » peut rester dans la tête de l'adu
 
 ---
 
+<a id="atelier-9"></a>
 # 9. Équilibre - Pourquoi cela ne tombe-t-il pas ?
 
 ## Ce qu'on cherche à provoquer
@@ -1000,6 +1034,7 @@ On termine par:
 
 ---
 
+<a id="atelier-10"></a>
 # 10. Chaleur - Qu'est-ce que la chaleur peut changer ?
 
 ## Ce qu'on cherche à provoquer
@@ -1086,6 +1121,7 @@ On termine sur les hypothèses plutôt que sur une explication générale.
 
 ---
 
+<a id="atelier-11"></a>
 # 11. La surface de l'eau - Comment l'eau peut-elle tenir quelque chose ?
 
 ## Ce qu'on cherche à provoquer
@@ -1187,6 +1223,7 @@ Pas besoin de donner immédiatement le mot « tension superficielle ».
 
 ---
 
+<a id="materiel-general"></a>
 # Matériel général à transporter
 
 * cinq plateaux ;
